@@ -1,2 +1,3 @@
-# system-use-case3
-Use for use-case3 demo case
+# Store artifacts for demo cases
+
+DO NOT DELETE
